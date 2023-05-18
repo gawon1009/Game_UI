@@ -1,8 +1,1 @@
-echo "# Game_UI" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/gawon1009/Game_UI.git
-git push -u origin main
-git status
+
